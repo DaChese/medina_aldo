@@ -6,7 +6,7 @@ Final Exam
 module.exports = {
   devServer: {
     client: {
-      webSocketURL: 'https://reimagined-space-barnacle-q7p5w75vvj4x24q9r-8080.app.github.dev/'
+      webSocketURL: 'place port forwarded URL here'
    }
   }
 }
